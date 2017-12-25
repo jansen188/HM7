@@ -1,0 +1,19 @@
+﻿已經開始建置於 25/12/2017 20.26.39。
+     1>節點 2 (Build 目標) 上的專案 "C:\Users\jansen\Desktop\106360246_林欣榮\P15\P15\P15\P15.vcxproj"。
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(356,5): warning MSB8004: Intermediate Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Intermediate Directory.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(357,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+     1>ClCompile:
+         D:\jansen\CC programing\VC\bin\CL.exe /c /I"C:\Users\jansen\Desktop\106360246_林欣榮\P15\include" /ZI /nologo /W3 /WX- /sdl- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"..\..\temp\debug\\" /Fd"..\..\temp\debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt Main.c
+         Main.c
+     1>c:\users\jansen\desktop\106360246_林欣榮\p15\p15\p15\main.c(8): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\jansen\cc programing\vc\include\stdio.h(211) : 請參閱 'fopen' 的宣告
+     1>c:\users\jansen\desktop\106360246_林欣榮\p15\p15\p15\main.c(9): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\jansen\cc programing\vc\include\stdio.h(211) : 請參閱 'fopen' 的宣告
+       Link:
+         D:\jansen\CC programing\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"..\..\temp\debug\P15.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"..\..\temp\debug\P15.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"..\..\temp\debug\P15.lib" /MACHINE:X86 ..\..\temp\debug\Main.obj
+         P15.vcxproj -> C:\Users\jansen\Desktop\106360246_林欣榮\P15\P15\P15\..\..\temp\debug\P15.exe
+     1>專案 "C:\Users\jansen\Desktop\106360246_林欣榮\P15\P15\P15\P15.vcxproj" (Build 目標) 建置完成。
+
+建置成功。
+
+經過時間 00:00:01.15

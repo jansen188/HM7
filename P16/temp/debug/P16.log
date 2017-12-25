@@ -1,0 +1,17 @@
+﻿已經開始建置於 25/12/2017 20.57.02。
+     1>節點 2 (Build 目標) 上的專案 "C:\Users\jansen\Desktop\106360246_林欣榮\P16\P16\P16\P16.vcxproj"。
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(356,5): warning MSB8004: Intermediate Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Intermediate Directory.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(357,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+     1>ClCompile:
+         D:\jansen\CC programing\VC\bin\CL.exe /c /I"C:\Users\jansen\Desktop\106360246_林欣榮\P16\include" /ZI /nologo /W3 /WX- /sdl- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"..\..\temp\debug\\" /Fd"..\..\temp\debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt main.c
+         main.c
+     1>c:\users\jansen\desktop\106360246_林欣榮\p16\p16\p16\main.c(12): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\jansen\cc programing\vc\include\stdio.h(211) : 請參閱 'fopen' 的宣告
+     1>c:\users\jansen\desktop\106360246_林欣榮\p16\p16\p16\main.c(14): warning C4996: 'getche': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getche. See online help for details.
+                 d:\jansen\cc programing\vc\include\conio.h(132) : 請參閱 'getche' 的宣告
+     1>c:\users\jansen\desktop\106360246_林欣榮\p16\p16\p16\main.c(22): fatal error C1075: 與左大括號 '{'對應之前遇到檔案的結尾 (位於 'c:\users\jansen\desktop\106360246_林欣榮\p16\p16\p16\main.c(8)')
+     1>專案 "C:\Users\jansen\Desktop\106360246_林欣榮\P16\P16\P16\P16.vcxproj" (Build 目標) 建置完成 -- 失敗。
+
+建置失敗。
+
+經過時間 00:00:02.16
